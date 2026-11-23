@@ -1,18 +1,18 @@
 {
   "expo": {
-    "name": "nativewind-boilerplate",
-    "slug": "nativewind-boilerplate",
-    "scheme": "citiboilerplate",
+    "name": "DistriLux Gestão",
+    "slug": "distrilux-gestao",
+    "scheme": "distriluxgestao",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
     "icon": "./assets/images/icon.png",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "br.org.citi.boilerplate"
+      "bundleIdentifier": "br.org.citi.distrilux"
     },
     "android": {
-      "package": "br.org.citi.boilerplate",
+      "package": "br.org.citi.distrilux",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
