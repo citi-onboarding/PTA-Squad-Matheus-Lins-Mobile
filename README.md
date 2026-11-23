@@ -1,10 +1,6 @@
-# <Project name>
+# DistriLux Gestão
 
-> ⚠️ **This README is a skeleton.** It came from the CITi mobile boilerplate.
-> Fill it in with your project's information and delete this note — see
-> [SETUP.md](SETUP.md) for the full day-one checklist.
-
-<One sentence: what this app does and for whom.>
+Manager-only mobile app of the DistriLux order portal (PTA Tech 26.2): weekly revenue, overdue customers, churn-risk customers, and contract alerts, read from the portal backend. Project rules are in [AGENTS.md](AGENTS.md).
 
 ## Stack
 
